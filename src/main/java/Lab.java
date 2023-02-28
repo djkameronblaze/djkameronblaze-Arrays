@@ -46,7 +46,7 @@ public class Lab {
     /**
      * @param n the size of the array we wish to create
      * @return a new int array that can contain n elements.
-     */
+     */Wow
     public int[] returnNewArraySizeN(int n){
     
         return new int [n];
